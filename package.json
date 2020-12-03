@@ -1,6 +1,6 @@
 {
   "name": "audible-debug",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Audible debugging tools",
   "main": "dist/index.js",
   "scripts": {
