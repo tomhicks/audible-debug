@@ -8,6 +8,13 @@
     "prepublish": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomhicks/audible-debug"
+  },
+  "bugs": {
+    "url": "https://github.com/tomhicks/audible-debug/issues"
+  },
   "keywords": [
     "audible",
     "debugging",
